@@ -1,8 +1,8 @@
 name: Dungeon Crawler
-description: "Dungeon Crawler Life - An AI-generated procedurally growing dungeon crawl RPG theme"
+description: "Montinuity - A shard-based multiverse RPG theme"
 screenshot: screenshot.png
 logo: images/logos/dungeoncrawler_navbar.png
-'alt text': 'Dungeon Crawler Life - AI Generated Living Dungeon'
+'alt text': 'Montinuity - shard-based multiverse RPG'
 core_version_requirement: ^10.3 || ^11
 # version: '1.0'
 engine: twig
