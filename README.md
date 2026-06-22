@@ -4,7 +4,7 @@
 
 ## Overview
 
-The **Dungeon Crawler** theme is a custom Drupal 11 theme for Dungeon Crawler Life — an AI-generated, procedurally growing dungeon crawl where every room is permanent, every monster has an AI-driven personality, and adventuring parties shape a living world.
+The **Dungeon Crawler** theme is a custom Drupal 11 theme for Dungeon Crawler Life — a shard-based multiverse RPG where campaigns persist as separate universes, characters can fork and migrate across settings, and the front-end must communicate long-term continuity rather than disposable runs.
 
 Theme source comments and branding references are aligned to Dungeon Crawler Life terminology to keep game-facing copy consistent.
 
@@ -12,10 +12,10 @@ Built on the Radix base theme with Bootstrap 5, it provides a dark dungeon RPG a
 
 ## Game Concept
 
-- **AI-Generated Rooms** — Rooms are procedurally generated the first time they are entered and become permanent fixtures of the world
-- **Living Monsters** — Creatures have AI-powered personalities, goals, and motivations. Some respawn, some die permanently
-- **Adventuring Parties** — Players form parties to explore the ever-growing dungeon together
-- **Persistent World** — Every action permanently shapes the dungeon for all who follow
+- **Shard Campaigns** — Each campaign is a persistent universe shard with its own history and consequences
+- **Forked Characters** — Characters can persist, restore, diverge, and carry identity across timelines or settings
+- **Cross-Setting Travel** — Characters can move between fantasy, cyberpunk, planar, and other shard types as part of the fiction
+- **Persistent World Memory** — Player actions leave behind durable history instead of resetting into disposable runs
 
 ## Technical Details
 
