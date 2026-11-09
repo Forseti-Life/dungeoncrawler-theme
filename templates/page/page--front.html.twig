@@ -11,8 +11,8 @@
 {% set primary_cta_url = '/campaigns' %}
 {% set primary_cta_label = 'Launch a Shard Campaign' %}
 {% if not logged_in %}
-  {% set primary_cta_url = '/user/login?destination=/campaigns' %}
-  {% set primary_cta_label = 'Sign In to Launch a Shard' %}
+  {% set primary_cta_url = '/user/register?destination=/campaigns' %}
+  {% set primary_cta_label = 'Create Account to Launch a Shard' %}
 {% endif %}
 {% set secondary_cta_url = '/world' %}
 {% set secondary_cta_label = 'See the Living Multiverse' %}
